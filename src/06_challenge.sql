@@ -1,0 +1,1 @@
+SELECT first_name AS 'primeiro_nome', last_name AS 'ultimo_nome' FROM users;
