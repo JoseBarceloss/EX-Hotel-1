@@ -1,4 +1,4 @@
-INSERT INTO user (id, name, email, password, created_at, updated_at)
+INSERT INTO trybe_hotel.users (first_name, last_name, email, age, created_at,)
 VALUES ('Terry', 'Medhurst', 'atuny0@email.com', 31, '2022-12-31'),
 ('Miles', 'Hills', 'rshawe2@dotmail.com', 17, '2023-05-10'),
 ('Sheldon', 'Hills', 'num41@email.com', 18, '2022-12-25'),
